@@ -18,7 +18,6 @@
 - 🌱 I’m actively exploring **AI and Machine Learning** applications, particularly in medical diagnostics and cybersecurity.
 - ⚙️ I enjoy solving complex problems and regularly practice **Data Structures and Algorithms (DSA)** via LeetCode.
 - 🚀 Previously built full-stack applications using the **MERN stack**, and currently transitioning those architectures to robust Spring Boot microservices.
-- 🎧 **Fun fact:** I curate narrative-themed rock and synth-pop playlists (like *"The Mastermind's Ascent"*) to stay focused during long coding sessions.
 
 ---
 
